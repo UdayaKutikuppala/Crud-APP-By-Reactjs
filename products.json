@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "redme note 11",
+      "price": 25000,
+      "category": "mobiles"
+    },
+    {
+      "name": "realme",
+      "price": "55932",
+      "category": "mobiles",
+      "id": 2
+    },
+    {
+      "name": "dell",
+      "price": "70000",
+      "category": "laptop",
+      "id": 3
+    }
+  ]
+}
